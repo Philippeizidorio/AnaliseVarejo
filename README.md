@@ -48,7 +48,7 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 3. O departamento que apresentou maior média de preço com frete foi o de TVs e Acessorios;
 4. O mês que apresentou a maior quantidade de vendas foi Março;
 5. A média de renda em todos os canais de venda não foi menor que R$8.200,00;
-6. A média de idade foi é 53 anos para ambas bandeiras do grupo.
+6. A média de idade foi de 53 anos para ambas bandeiras do grupo.
 
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
