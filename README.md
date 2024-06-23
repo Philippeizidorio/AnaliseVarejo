@@ -7,7 +7,7 @@ O dataset que temos em mãos é composto por informações de vendas de uma loja
 
 ### ◾Premissas de negócio:
 
-A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações de UF(Unidade Federativa). Para solucionar esse problema, foi decidido que essas compras serão consideradas como pertencentes ao estado de Mato Grosso do Sul(MS). A segunda premissa é que o preço final de um produto não pode ser maior do que a preco com frete.
+A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações de UF(Unidade Federativa). Para solucionar esse problema, foi decidido que essas compras serão consideradas como pertencentes ao estado de Mato Grosso do Sul(MS). A segunda premissa é que o preço final de um produto não pode ser maior do que a preço com frete, sendo necessário aplicar uma filtragem no dataset para que fiquem apenas aqueles que contemplem essa condição.   
 
 ### ◾Métricas:
 
