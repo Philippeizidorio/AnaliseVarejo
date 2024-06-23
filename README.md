@@ -43,6 +43,13 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
   <img src="https://github.com/Philippeizidorio/AnaliseVarejo/blob/main/m%C3%A9dia%20de%20idade%20por%20bandeira.png" alt="Média de idade por bandeira">
 </p>
 
+### ◾ Através das análises, podemos concluir que no período: 
+1. O Top 3 departamentos com maior quantidade de vendas foram respectivamente: _Telefones_e_Celulares, Eletrodomesticos e Eletroportateis_;
+3. O departamento que apresentou maior média de preço com frete foi o de _TVs_e_Acessorios_;
+4. O mês que apresentou a maior quantidade de vendas foi _Março_;
+5. A média de renda em todos os canais de venda _não foi menor que R$8.200,00_;
+6. A média de idade foi é _53 anos_ para ambas bandeiras do grupo.
+
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
 <img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
