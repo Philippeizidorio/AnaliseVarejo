@@ -44,8 +44,8 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 </p>
 
 ### ◾ Através das análises, podemos concluir que no período: 
-1. O Top 3 departamentos com maior quantidade de vendas foram respectivamente: Telefones e Celulares, Eletrodomesticos e Eletroportateis;
-3. O departamento que apresentou maior média de preço com frete foi o de TVs e Acessorios;
+1. O Top 3 departamentos com maior quantidade de vendas foram respectivamente: Telefones e Celulares, Eletrodomésticos e Eletroportáteis;
+3. O departamento que apresentou maior média de preço com frete foi o de TVs e Acessórios;
 4. O mês que apresentou a maior quantidade de vendas foi Março;
 5. A média de renda em todos os canais de venda não foi menor que R$8.200,00;
 6. A média de idade foi de 53 anos para ambas bandeiras do grupo.
