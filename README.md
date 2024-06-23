@@ -16,3 +16,8 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 **1.Departamentos mais vendidos:** Analisando os dados de vendas, podemos identificar quais são os departamentos mais populares entre os clientes. Essa informação pode ser útil para entender quais são os produtos mais procurados pelos clientes e ajustar a estratégia de venda da loja em conformidade.
 
 ![Qtd. De Vendas Por DPT.](https://github.com/Philippeizidorio/AnaliseVarejo/blob/main/Qtd.%20vendas%20por%20departamento.png)
+
+**1.Média de preço com frete por departamento:** Para entender o comportamento de preço por departamento, podemos calcular a média de preço com frete por nome de departamento. Essa métrica pode ajudar a identificar quais são os departamentos mais rentáveis e ajustar a precificação de produtos de acordo com a margem de lucro desejada.
+
+![Qtd. De Vendas Por DPT.](https://github.com/Philippeizidorio/AnaliseVarejo/blob/main/M%C3%A9dia%20de%20pre%C3%A7o%20com%20frete%20por%20DPT.png)
+
