@@ -3,7 +3,7 @@
 
 ### ◾Contexto:
 
-O dataset que temos em mãos é composto por informações de vendas de uma loja varejista que atua em todo território nacional, vendendo produtos de diferentes departamentos bem como possui diferentes canais de venda, como marketplace, loja própria, entre outros. A gestão do negócio está precisando acompanhar os resultados para traçar melhores estratégias e tomar decisões bem informadas juntamente a outros times de negócio, para isso, realizaremos análises e criaremos métricas utilizando a linguagem Python em conjunto com algumas bibliotecas que serão cruciais para essa finalidade. 
+O dataset que temos em mãos é composto por informações de vendas de uma loja varejista que atua em todo território nacional, vendendo produtos de diferentes departamentos bem como possui diferentes canais de venda, como marketplace, loja própria, entre outros. A gestão do negócio está precisando acompanhar os resultados para traçar melhores estratégias e tomar decisões bem informadas juntamente a outros times da empresa, para isso, realizaremos análises e criaremos métricas utilizando a linguagem Python em conjunto com algumas bibliotecas que serão cruciais para essa finalidade. 
 
 ### ◾Premissas de negócio:
 
