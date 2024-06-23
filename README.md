@@ -1,1 +1,1 @@
-# Análise E Criação De Métricas Usando Python - Loja Varejista 
+# Análisando E Criando Métricas Usando Python - Loja Varejista 📊🔍
