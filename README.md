@@ -13,6 +13,6 @@ A primeira delas é que, devido a um erro no sistema, algumas compras não possu
 
 Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avaliar as seguintes métricas ↓
 
-**1. Departamentos mais vendidos:** Analisando os dados de vendas, podemos identificar quais são os departamentos mais populares entre os clientes. Essa informação pode ser útil para entender quais são os produtos mais procurados pelos clientes e ajustar a estratégia de venda da loja em conformidade.
+**1.Departamentos mais vendidos:** Analisando os dados de vendas, podemos identificar quais são os departamentos mais populares entre os clientes. Essa informação pode ser útil para entender quais são os produtos mais procurados pelos clientes e ajustar a estratégia de venda da loja em conformidade.
 
-
+![Qtd. De Vendas Por DPT.](https://github.com/Philippeizidorio/AnaliseVarejo/blob/main/Qtd.%20vendas%20por%20departamento.png)
