@@ -36,3 +36,9 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 <p align="center">
   <img src="https://github.com/Philippeizidorio/AnaliseVarejo/blob/main/m%C3%A9dia%20de%20renda%20por%20canal.png" alt="Média de renda por canal de venda">
 </p>
+
+**5.Média de idade dos clientes por bandeira:** Saber a faixa etária dos clientes por bandeira pode ajudar a identificar perfis de consumidores e ajustar a estratégia de venda para atender melhor cada público.
+
+<p align="center">
+  <img src="https://github.com/Philippeizidorio/AnaliseVarejo/blob/main/m%C3%A9dia%20de%20idade%20por%20bandeira.png" alt="Média de idade por bandeira">
+</p>
