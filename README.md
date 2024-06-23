@@ -53,8 +53,9 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
 <img src="https://img.shields.io/badge/Python-4695dd?style=for-the-badge&logo=python&logoColor=FFD43B">
-<img src="https://img.shields.io/badge/Matplotlib-%232A9D8F.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-%232A9D8F.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
 </div> 
 
 ## Autor:
